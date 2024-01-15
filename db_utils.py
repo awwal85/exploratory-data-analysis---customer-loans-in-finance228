@@ -22,4 +22,5 @@ class RDSDatabaseConnector:
 
         #  Loading the data from my local machine into a Pandas DataFrame.
         loans_df = pd.read_csv('loan_payments.csv')
+        del loans_df['Unnamed: 0']
         loans_df.head()
