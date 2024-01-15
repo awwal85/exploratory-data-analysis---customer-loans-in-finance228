@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 This project is about a large financial institution, where managing loans is a critical component of business operations.
 
 ## Goals
